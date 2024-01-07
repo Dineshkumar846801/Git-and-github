@@ -1,2 +1,2 @@
 # Important Instruction
-Git and GitHub basic knowledga
+Git and GitHub basic knowledge
